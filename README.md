@@ -3,7 +3,7 @@
 
 ## Task One
 
-# Amend existing code so that secrets are loaded in through environment variables e.g. Django SECRET_KEY variable in settings.py
+### Amend existing code so that secrets are loaded in through environment variables e.g. Django SECRET_KEY variable in settings.py
 
 
 * settings.py updated to include SECRET_KEY as Environment Variable.
